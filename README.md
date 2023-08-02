@@ -1,5 +1,5 @@
 # XShell
-A simple shell that supports pipelining, redirection, and listing ...
+A simple shell runs on Linux that supports pipelining, redirection, and listing ...
 
 Use Makefile's make command to build
 
